@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Charlie Wei</h1>
 <h3 align="center">A passionate undergraduate from China</h3>
 
-- 🌱 I’m currently learning **Geography**
+- 🌱 I’m currently learning **Geography&Econ**
 
-- 💬 Ask me about **Nothing but not any Algorithm**
+- 💬 Ask me about **Anything but not any Algorithm**
 
 - 📫 How to reach me **Charliewei@stu.pku.edu.cn**
 
