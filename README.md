@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Charlie Wei</h1>
-<h3 align="center">A passionate undergraduate from China</h3>
+<h3 align="center">A passionate undergraduate from Peking University</h3>
 
 - 🌱 I’m currently learning **Geography&Econ**
 
