@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Geography&Econ**
 
-- 💬 Ask me about **Anything but not any Algorithm**
+- 💬 Ask me about **Anything but no Algorithm;Maybe more about finance**
 
 - 📫 How to reach me **Charliewei@stu.pku.edu.cn**
 
